@@ -51,12 +51,12 @@ sudo systemctl restart nginx
 Finally, I opened my browser and navigated to the public IP of my EC2 instance. Seeing the custom message, "Welcome to DevOps Stage 0 - Emmanuel Yisa/Emmantayz," was a satisfying confirmation that the setup was successful.
 
 # Deployed Website Link
-
+![image](https://github.com/user-attachments/assets/96b05d06-9b13-40f4-b859-eba538aef2d6)
 Link: http://13.60.85.224/
 
 # Challenges Faced
+I encountered permission errors while trying to edit the default NGINX HTML page. I resolved this by using sudo to edit the file and gained a better understanding of file ownership and permission management in Linux
 
-I Didnt Really Face Any Challenge EVerything Went Smooth
 
 # How This Task Contributes to My Learning and Professional Goals
 
@@ -65,10 +65,11 @@ It helped me:
 - Understand the basics of NGINX configuration.
 - Develop problem-solving skills by troubleshooting SSH and NGINX issues.
 
+
 # References
 
-• DevOps Engineers - https://hng.tech/hire/devops-engineers
-• Cloud Engineers - https://hng.tech/hire/cloud-engineers
+•   DevOps Engineers - https://hng.tech/hire/devops-engineers
+•   Cloud Engineers - https://hng.tech/hire/cloud-engineers
 •	Site Reliability Engineers - https://hng.tech/hire/site-reliability-engineers
 •	Platform Engineers - https://hng.tech/hire/platform-engineers
 •	Infrastructure Engineers - https://hng.tech/hire/infrastructure-engineers
